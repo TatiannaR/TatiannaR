@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/tatianna-rocha-121578117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2><strong>SOBRE</strong></h2>
+<h2>SOBRE</h2>
 
 Olá! Me chamo Tatianna, sou formada em Análise e Desenvolvimento de Sistemas, concluir o curso de Dragon Dreaming e atualmente o meu objetivo é me tornar uma Desenvolvedora Front-End Jr. 
 
